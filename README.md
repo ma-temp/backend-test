@@ -1,7 +1,7 @@
 # backend-test
 
 ### Requirements
-* Java 11
+* Java 17
 * Maven 3.8
 * Docker Desktop
 
